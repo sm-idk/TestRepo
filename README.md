@@ -1,7 +1,7 @@
 # Poniżej znajduje się przykładowe README do mojego [TestRepo](https://github.com/sm-idk/TestRepo)
 
 ## Podtytuł H2
-Znajduje się ono pod nazwą [TestRepo](https://github.com/sm-idk/TestRepo) jako repozytorium na moim [profilu](https://github.com/sm-idk/)
+Znajduje się ono pod nazwą [TestRepo](https://github.com/sm-idk/TestRepo) jako repozytorium na [moim profilu](https://github.com/sm-idk/)
 
 ### Przykładowe listy, obrazki oraz blok kodu
 
@@ -19,6 +19,10 @@ Znajduje się ono pod nazwą [TestRepo](https://github.com/sm-idk/TestRepo) jako
 
 Pythonowy hello world jako blok kodu
 
-```py
-print "Hello World"
+```c
+#include <stdio.h>
+int main() {
+   printf("Hello, World!");
+   return 0;
+}
 ```
