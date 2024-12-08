@@ -1,10 +1,9 @@
-# Poniżej znajduje się przykładowe README do TestRepo
+# Poniżej znajduje się przykładowe README do mojego [TestRepo](https://github.com/sm-idk/TestRepo)
 
----
-
-# Duży tytuł H1
 ## Podtytuł H2
-### Nazwa H3
+Znajduje się ono pod nazwą [TestRepo](https://github.com/sm-idk/TestRepo) jako repozytorium na moim [profilu](https://github.com/sm-idk/)
+
+### Przykładowe listy, obrazki oraz blok kodu
 
 1. Pierwszy punkt
     - podpunkt
@@ -15,3 +14,11 @@
 3. Trzeci punkt
     - podpunkt
     - kolejny podpunkt
+
+![Tekst alternatywny, w wypadku niemożliwego wyswietlenia zdjęcia](https://envs.net/~smidk/www/w/95_blue.png)
+
+Pythonowy hello world jako blok kodu
+
+```py
+print "Hello World"
+```
