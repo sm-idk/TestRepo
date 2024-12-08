@@ -1,5 +1,7 @@
 # Poniżej znajduje się przykładowe README do mojego [TestRepo](https://github.com/sm-idk/TestRepo)
 
+![Tekst alternatywny, w wypadku niemożliwego wyswietlenia zdjęcia](https://envs.net/~smidk/www/w/95_blue.png)
+
 ## Podtytuł H2
 Znajduje się ono pod nazwą [TestRepo](https://github.com/sm-idk/TestRepo) jako repozytorium na [moim profilu](https://github.com/sm-idk/)
 
@@ -15,9 +17,7 @@ Znajduje się ono pod nazwą [TestRepo](https://github.com/sm-idk/TestRepo) jako
     - podpunkt
     - kolejny podpunkt
 
-![Tekst alternatywny, w wypadku niemożliwego wyswietlenia zdjęcia](https://envs.net/~smidk/www/w/95_blue.png)
-
-Pythonowy hello world jako blok kodu
+Przykładowe hello world jako blok kodu
 
 ```c
 #include <stdio.h>
