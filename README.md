@@ -1,4 +1,4 @@
-# Poniżej znajduje się przykładowe README do mojego [TestRepo](https://github.com/sm-idk/TestRepo)
+# Poniżej znajduje się przykładowe README do [TestRepo](https://github.com/sm-idk/TestRepo) Bruna Popławskiego
 
 ![Tekst alternatywny, w wypadku niemożliwego wyswietlenia zdjęcia](https://envs.net/~smidk/www/w/95_blue.png)
 
