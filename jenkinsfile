@@ -1,0 +1,16 @@
+pipeline {
+    agent any
+    stages {
+        stage('Print Info') {
+            steps {
+                // Wyświetlenie imienia i numeru indeksu
+                script {
+                    def studentName = 'Bruno Popławski'
+                    def studentIndex = '167884'
+                    echo "Student Name: ${studentName}"
+                    echo "Student Index: ${studentIndex}"
+                }
+            }
+        }
+    }
+}
